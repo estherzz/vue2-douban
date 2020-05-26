@@ -1,0 +1,9 @@
+$color:#42BD56;
+@mixin arrow($w:5px,$color:#333,$an:45deg,$size:1.5px){
+    display: inline-block;
+    width: $w;
+    height: $w;
+    border-top: $size solid $color;
+    border-right: $size solid $color;
+    transform: rotate($an);
+}

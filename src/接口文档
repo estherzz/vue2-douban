@@ -1,0 +1,55 @@
+域名：https://www.douban.com
+//热门话题
+/j/gallery/rec_topics：
+    get
+    query{
+        start：，number 条目开始位置（最大47）
+        count：， number 条目数量
+    }
+    
+域名：https://movie.douban.com/
+
+//热门电影
+j/search_subjects?type=movie&tag=%E7%83%AD%E9%97%A8&page_limit=50&page_start=0
+
+{
+    type:, movie
+    tag:, 热门
+    page_limit:,10
+    page_start:,0
+}
+电影
+movie/33420285?ck=&for_mobile=1
+电影评论
+https://m.douban.com/rexxar/api/v2/movie/33420285/interests?count=4&order_by=hot&start=0&ck=&for_mobile=1
+导演演员
+https://m.douban.com/rexxar/api/v2/movie/33420285/credits
+https://m.douban.com/rexxar/api/v2/celebrity/1256835/
+
+演员个人作品
+https://m.douban.com/rexxar/api/v2/celebrity/1256835/works?sort=vote&count=10
+
+
+豆列 返回html
+j/doulist/doulists?start=12&limit=12
+
+/api/v2/group/explore :小组首页列表
+小组话题
+/api/v2/group/:id/topics
+/group/topic/33488193/comments  小组评论
+
+话题
+    首页中热门话题
+    /api/v2/gallery/rec_topics?start=0&count=20
+    sort分类选话题  hot/new
+    /api/v2/gallery/topic/142759/items?sort=hot&start=0&count=20&status_full_text=1&guest_only=0&ck=null
+    返回html
+    j/gallery/rec_topics?start=' + (parseInt(46 * Math.random()) + 1) + '&count=1
+
+片单列表
+/api/v2/skynet/playlists?from_rexxar=&start=0&count=20
+/api/v2/doulist/1682006/items  根据片单id得到片单集
+//返回两组分类电影
+/api/v2/movie/hot_channels
+//找电影列表
+/api/v2/movie/suggestion?start=0&count=10&new_struct=1&with_review=1&for_mobile=1
