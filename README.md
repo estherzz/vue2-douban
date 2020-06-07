@@ -1,11 +1,13 @@
-#说明
+# 说明
 
 vue仿豆瓣app项目 持续更新中....
 
 
-#技术栈
+# 技术栈
 vue2 + vuex + vue-router +  ES6+ fetch + sass + flex + svg+vantUI
+
 **版本:**
+
 vue: ^2.6.11,
  vue-router: ^3.1.6,
  vuex: ^3.1.3"，
@@ -16,7 +18,7 @@ git clone [https://github.com/estherzz/vue2-douban](https://github.com/estherzz/
 cd vue2-douban
 yarn serve (或者 npm ren serve)
 
-#部分gif效果图
+# 部分gif效果图
 
 ![底部tabnav切换路由.gif](https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif?imageMogr2/auto-orient/strip)
 
@@ -27,10 +29,10 @@ yarn serve (或者 npm ren serve)
 
 ![小组首页.gif](https://upload-images.jianshu.io/upload_images/20110534-bc98cd11c949768f.gif?imageMogr2/auto-orient/strip)
 
-#接口
+# 接口
 根据本人项目需要 自己总结的一些接口
 
->get请求
+> get请求
 
 ```
 热门话题
