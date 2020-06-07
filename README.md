@@ -9,16 +9,27 @@ vue2 + vuex + vue-router +  ES6+ fetch + sass + flex + svg+vantUI
 **版本:**
 
 vue: ^2.6.11,
+
  vue-router: ^3.1.6,
+ 
  vuex: ^3.1.3"，
+ 
 vant: 1
+
 node:12.16.2.0
-#项目运行
+
+# 项目运行
+
 git clone [https://github.com/estherzz/vue2-douban](https://github.com/estherzz/vue2-douban.git)
+
 cd vue2-douban
+
 yarn serve (或者 npm ren serve)
 
+
 # 部分gif效果图
+
+<img width="150" height="150" src="https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif" />
 
 ![底部tabnav切换路由.gif](https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif?imageMogr2/auto-orient/strip)
 
