@@ -15,6 +15,18 @@ node:12.16.2.0
 git clone [https://github.com/estherzz/vue2-douban](https://github.com/estherzz/vue2-douban.git)
 cd vue2-douban
 yarn serve (或者 npm ren serve)
+
+#部分gif效果图
+
+![底部tabnav切换路由.gif](https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif?imageMogr2/auto-orient/strip)
+
+![首页话题详情.gif](https://upload-images.jianshu.io/upload_images/20110534-47f9cf6599e796e9.gif?imageMogr2/auto-orient/strip)
+![电影+电影详情.gif](https://upload-images.jianshu.io/upload_images/20110534-cb51846a1e1ad427.gif?imageMogr2/auto-orient/strip)
+
+![更多+片单.gif](https://upload-images.jianshu.io/upload_images/20110534-bb0b007e6170b570.gif?imageMogr2/auto-orient/strip)
+
+![小组首页.gif](https://upload-images.jianshu.io/upload_images/20110534-bc98cd11c949768f.gif?imageMogr2/auto-orient/strip)
+
 #接口
 根据本人项目需要 自己总结的一些接口
 
@@ -140,13 +152,5 @@ https://m.douban.com/rexxar/api/v2`
          }
      }
 ```
-#部分gif效果图
-![底部tabnav切换路由.gif](https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif?imageMogr2/auto-orient/strip)
 
-![首页话题详情.gif](https://upload-images.jianshu.io/upload_images/20110534-47f9cf6599e796e9.gif?imageMogr2/auto-orient/strip)
-![电影+电影详情.gif](https://upload-images.jianshu.io/upload_images/20110534-cb51846a1e1ad427.gif?imageMogr2/auto-orient/strip)
-
-![更多+片单.gif](https://upload-images.jianshu.io/upload_images/20110534-bb0b007e6170b570.gif?imageMogr2/auto-orient/strip)
-
-![小组首页.gif](https://upload-images.jianshu.io/upload_images/20110534-bc98cd11c949768f.gif?imageMogr2/auto-orient/strip)
 
