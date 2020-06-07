@@ -29,7 +29,11 @@ yarn serve (或者 npm ren serve)
 
 # 部分gif效果图
 
-<img width="150" height="150" src="https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif" />
+<img width="200" src="https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif" alt="底部tabnav切换路由.gif" />
+<img width="200" src="https://upload-images.jianshu.io/upload_images/20110534-47f9cf6599e796e9.gif" alt="首页话题详情"/>
+<img width="200" src="https://upload-images.jianshu.io/upload_images/20110534-cb51846a1e1ad427.gif" alt="电影列表+电影详情"/>
+<img width="200" src="https://upload-images.jianshu.io/upload_images/20110534-bb0b007e6170b570.gif" alt="更多+片单"/>
+<img width="200" src="https://upload-images.jianshu.io/upload_images/20110534-bc98cd11c949768f.gif" alt="小组首页"/>
 
 ![底部tabnav切换路由.gif](https://upload-images.jianshu.io/upload_images/20110534-d4163139273d14c7.gif?imageMogr2/auto-orient/strip)
 
