@@ -28,6 +28,7 @@ yarn serve (或者 npm ren serve)
 
 # 部分截图
 首页+书影音+小组+首页话题详情1+首页话题详情2+话题评论+评论导航粘性定位+电影详情（电影信息+预告+剧照）+电影详情（评论）+片单+小组详情+小组某话题详情
+
 ![首页](https://upload-images.jianshu.io/upload_images/20110534-80e38b1a80becf07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)     ![书影音](https://upload-images.jianshu.io/upload_images/20110534-16912bcf7594e5f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![小组](https://upload-images.jianshu.io/upload_images/20110534-437f6f4b3c5aed71.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)![首页话题详情1](https://upload-images.jianshu.io/upload_images/20110534-c8d512de5d33bb46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)![首页话题详情2](https://upload-images.jianshu.io/upload_images/20110534-1b8fd02ccc6d3afd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![话题评论+评论导航粘性定位](https://upload-images.jianshu.io/upload_images/20110534-2d0c065a3e184952.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)![电影详情（电影信息+预告+剧照）](https://upload-images.jianshu.io/upload_images/20110534-627fb1cb40f0b83c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
