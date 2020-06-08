@@ -24,7 +24,7 @@ git clone [https://github.com/estherzz/vue2-douban](https://github.com/estherzz/
 
 cd vue2-douban
 
-yarn serve (或者 npm ren serve)
+yarn serve (或者 npm run serve)
 
 # 部分截图
 首页+书影音+小组+首页话题详情1+首页话题详情2+话题评论+评论导航粘性定位+电影详情（电影信息+预告+剧照）+电影详情（评论）+片单+小组详情+小组某话题详情
