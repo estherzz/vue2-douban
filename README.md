@@ -20,7 +20,7 @@ node:12.16.2.0
 
 # 项目运行
 
-git clone [https://github.com/estherzz/vue2-douban](https://github.com/estherzz/vue2-douban.git)
+git clone https://github.com/estherzz/vue2-douban.git
 
 cd vue2-douban
 
