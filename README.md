@@ -2,7 +2,7 @@
 
 vue仿豆瓣app项目 持续更新中....
 
-github地址：https://github.com/estherzz/vue-cli--douban
+github地址：https://github.com/estherzz/vue2-douban 
 
 
 # 技术栈
